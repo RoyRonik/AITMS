@@ -1,0 +1,33 @@
+<annotation>
+  <folder>20210516</folder>
+  <filename>20210516_09_52_29_000_5XOkot3crTZw22PEJp2NMSjGIc83_T_4608_3456.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>3456</width>
+    <height>4608</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bus</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>431.5</xmin>
+      <ymin>803.64</ymin>
+      <xmax>3151.97</xmax>
+      <ymax>3490.52</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

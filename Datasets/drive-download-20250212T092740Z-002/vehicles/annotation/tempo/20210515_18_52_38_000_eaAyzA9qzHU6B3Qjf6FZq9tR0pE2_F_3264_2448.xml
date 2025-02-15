@@ -1,0 +1,33 @@
+<annotation>
+  <folder>20210515</folder>
+  <filename>20210515_18_52_38_000_eaAyzA9qzHU6B3Qjf6FZq9tR0pE2_F_3264_2448.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>car</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>362.9</xmin>
+      <ymin>587.96</ymin>
+      <xmax>1818.8600000000001</xmax>
+      <ymax>2586.33</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

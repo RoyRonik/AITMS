@@ -1,0 +1,33 @@
+<annotation>
+  <folder>20210516</folder>
+  <filename>20210516_05_27_00_000_xQsuWrd2ieYapUmqP7WPrIJ96f23_F_3264_2448.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>2448</width>
+    <height>3264</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tempo</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1105.15</xmin>
+      <ymin>526.1</ymin>
+      <xmax>2099.58</xmax>
+      <ymax>1249.32</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
